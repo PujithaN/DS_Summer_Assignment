@@ -50,7 +50,7 @@ public class Mysterious_Safeguard {
         int lg_end = ShiftUnits.get(0).end_time;
 
         // minimum impact lifeguard that can be fired to get max throughput
-        boolean Minimal_impact_guard = false;  //has found the safeguard that has minimal impact
+        boolean Minimal_impact_guard = false;
 
         // Minimum impact of the guard to be fired
         int Minimal_Impact_Number = 0;
